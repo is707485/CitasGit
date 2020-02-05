@@ -1,8 +1,8 @@
 ##Este es un titulo
 
-Hola: Luis Humberto
-Hola: Pablo Gaytan
-Hola: Lia Figueroa
-Hola: Reynaga
-Hola: Fernando
-Hola: Aurora 
+</p>Hola: Luis Humberto</br>
+Hola: Pablo Gaytan</br>
+Hola: Lia Figueroa</br>
+Hola: Reynaga</br>
+Hola: FernandoM/br>
+Hola: Aurora </p>
